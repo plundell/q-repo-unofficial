@@ -1,0 +1,11 @@
+{
+  "uno-svergiesradio":{
+    "name":"Sveriges Radio"
+    ,"type":"player"
+    ,"description":"Plays content available via https://sverigesradio.se.
+    ,"git":{
+      "owner":"x7dude"
+      ,"repo":"uno-svergiesradio"
+    }
+  }
+}
