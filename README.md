@@ -1,7 +1,7 @@
 # Q Unofficial Repo
-This is a list of **unofficial** 3rd party apps for use on the [Q Music Player](https://qmusicplayer.com). 
+This is a list of **unofficial** 3rd party apps for use on the [Q Music Player](https://qmusicplayer.com). By convention, all apps in this repo are prefixed by **uno-**.
 
-Apps on this list can have been created by anyone, use at your own peril. If you want your app included, [email us](mailto:qmusicplayer@protonmail.com).
+Apps on this list can have been created by anyone, use at your own peril. If you want your app included, [email us](mailto:qmusicplayer@protonmail.com). If you're a legal entity you're probably looking for the [q-repo-official](https://github.com/plundell/q-repo-official) instead. 
 
 The repo itself and the apps listed within are *seperate* and *optional* from the Q operating system. The repo can be installed on your Q by virtue of being listed in [q-repos-main](https://github.com/plundell/q-repos-main).
 
