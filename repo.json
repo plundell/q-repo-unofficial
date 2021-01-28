@@ -6,4 +6,11 @@
     ,"source":"github"
     ,"target":"anon40045/uno-sverigesradio"
   }
+  ,"uno-youtube":{
+    "name":"YouTube"
+    ,"type":"player"
+    ,"description":"Plays content available via https://www.youtube.com."
+    ,"source":"github"
+    ,"target":"anon40045/uno-youtube"
+  }
 }
