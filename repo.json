@@ -3,14 +3,12 @@
     "name":"Sveriges Radio"
     ,"type":"player"
     ,"description":"Plays content available via https://sverigesradio.se."
-    ,"source":"github"
-    ,"target":"anon40045/uno-sverigesradio"
+    ,"target":"github:anon40045/uno-sverigesradio"
   }
   ,"uno-youtube":{
     "name":"YouTube"
     ,"type":"player"
     ,"description":"Plays content available via https://www.youtube.com."
-    ,"source":"github"
-    ,"target":"anon40045/uno-youtube"
+    ,"target":"github:anon40045/uno-youtube"
   }
 }
